@@ -1,6 +1,8 @@
 # Acquiring Complex Concepts with Comparative Learning
 Official codebase for the workshop poster #10 from D. Calanzone, F. Merlo, presented at [CORE 2024 Workshop](https://eventum.upf.edu/111520/detail/core-project-2024-workshop-n-information-theoretic-perspectives-on-referring-expression-choice.html) in Universitat Pompeu Fabra, Barcelona.
 
+📌 [Paper is accessible here!](https://halixness.github.io/assets/pdf/complex_comparative_learning.pdf)
+
 ## Setup
 You can install the environment `comparative_learning` with Anaconda through the provided file `environment.yml`:
 ```
