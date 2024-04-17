@@ -1,0 +1,7 @@
+__pycache__
+**/__pycache__
+*.pth
+SOLA
+wandb
+*.out
+.DS_Store
